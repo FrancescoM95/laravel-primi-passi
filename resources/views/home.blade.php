@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>HELLO WORLD!</h1>
+    <p>Io sono {{ $name }} {{ $surname }}, ho {{ $age }} anni e sono un {{ $job }}.</p>
 </body>
 </html>
